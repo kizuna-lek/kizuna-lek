@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![kizuna-lek's GitHub stats]
-https://github-readme-stats.vercel.app/api?username=kizuna-lek&show_icons=true&theme=radical
+<td width="45%">
+        <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kizuna-lek&show_icons=true&include_all_commits=true&count_private=true" alt="kizuna-lek" /> </p>
+</td>
 
 
 <!--
