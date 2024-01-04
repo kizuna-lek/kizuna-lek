@@ -1,9 +1,8 @@
-### Hi there 👋
-[kizuna-lek's GitHub stats]
-<td width="45%">
-        <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=kizuna-lek&show_icons=true&include_all_commits=true&count_private=true" alt="kizuna-lek" /> </p>
-</td>
+### Hi there 👋 I’m Kizuna-lek
 
+## Stats
+|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=kizuna-lek&show_icons=true&include_all_commits=true&count_private=true" alt="kizuna-lek" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kizuna-lek&layout=compact&hide_border=true&bg_color=white" />|
+| ------------- | ------------- |
 
 <!--
 **kizuna-lek/kizuna-lek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
