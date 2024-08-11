@@ -1,7 +1,7 @@
 ### Hi there 👋 I’m Kizuna-lek
 
 ## Stats
-|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=kizuna-lek&show_icons=true&include_all_commits=true&count_private=true" alt="kizuna-lek" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kizuna-lek&layout=compact&hide_border=true&bg_color=white" />|
+|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=kizuna-lek&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="kizuna-lek" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kizuna-lek&layout=compact&bg_color=white&hide=HTML,CSS&&langs_count=4&hide_border=true" />|
 | ------------- | ------------- |
 
 <!--
