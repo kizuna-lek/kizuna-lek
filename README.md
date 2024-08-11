@@ -1,6 +1,9 @@
-### Hi there 👋 I’m Kizuna-lek
+### Hi there 👋  I’m lek
 
-## Stats
+- 🔭 Working at apecloud, Interested in k8s & database & backend dev
+- 📫 How to reach me: lek@pku.org.cn
+
+## Github Stats
 |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=kizuna-lek&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="kizuna-lek" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kizuna-lek&layout=compact&bg_color=white&hide=HTML,CSS&&langs_count=4&hide_border=true" />|
 | ------------- | ------------- |
 
