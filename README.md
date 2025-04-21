@@ -4,7 +4,7 @@
 - 📫 How to reach me: lek@pku.org.cn
 
 ## Github Stats
-|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=kizuna-lek&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="kizuna-lek" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kizuna-lek&layout=compact&bg_color=white&hide=HTML,CSS&&langs_count=4&hide_border=true" />|
+|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=kizuna-lek&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="kizuna-lek" /> |[![Lek profile views](https://u8views.com/api/v1/github/profiles/39260018/views/day-week-month-total-count.svg)](https://u8views.com/github/kizuna-lek)|
 | ------------- | ------------- |
 
 <!--
