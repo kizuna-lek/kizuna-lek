@@ -1,6 +1,6 @@
 ### Hi there 👋  I’m lek
 
-- 🔭 Working at bytedance, Interested in k8s & database & backend dev
+- 🔭 Working at volcengine, Interested in k8s & database & backend dev
 - 📫 How to reach me: lek@pku.org.cn
 
 ## Github Stats
